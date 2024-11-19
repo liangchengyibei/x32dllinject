@@ -1,1 +1,2 @@
-# x32dllinject
+funInject CImageX32里是写的完成注入功能的核心代码
+创建进程的代码以及mfc程序框架并未上传
